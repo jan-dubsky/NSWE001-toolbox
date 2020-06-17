@@ -1,0 +1,6 @@
+.git
+README.md
+.toolbox_utils
+make.sh
+run_container.sh
+stm32f4cube	# In case you decide to clone it, as recommended in README.md
